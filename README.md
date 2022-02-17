@@ -1,0 +1,2 @@
+# ilkkodum
+ilk yazdığım kod 
